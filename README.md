@@ -1,6 +1,12 @@
-# 🐈 CatGPT3
+<p align="center">
+  <img src = "https://user-images.githubusercontent.com/34917143/224589235-e98a74ee-bf27-4c74-97c1-705a4cf5e463.png" width="300px">
+</p>
 
+<h1 align="center">🐈 CatGPT3</h1>
 - This product has used Chatgpt3.5 base on flutter. There's only just say '냥'
+
+
+
 
 # Inspired
 
