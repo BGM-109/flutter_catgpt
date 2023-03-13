@@ -4,7 +4,7 @@
 
 <h1 align="center">🐈 CatGPT3</h1>
 - This product has used Chatgpt3.5 base on flutter. There's only just say '냥'
-
+- It is helpful for users who use the riverpod generator, retrofit, and dio.
 
 
 
